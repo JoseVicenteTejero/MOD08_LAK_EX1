@@ -4,4 +4,5 @@ JOSE VICENTE TEJERO CALDERERA
 
 EJERCICIO 1
 
-Drag and drop de la foto conseguida 
+Drag and drop de la foto conseguido.
+
